@@ -1,0 +1,3 @@
+[submodule "App/pde-fouriertransform"]
+	path = App/pde-fouriertransform
+	url = https://github.com/wolfram77/pde-fouriertransform
